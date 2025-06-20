@@ -185,17 +185,21 @@ Installation
 
 1.  Clone the repository:
     
-        git clone https://github.com/your-username/peanut.git
+        git clone https://github.com/tocsindata/peanut.git
     
 2.  Navigate to the repository:
     
         cd peanut
+
+3. Edit with Nano or vi and change defaults to desired output
+
+        nano ./script.sh
     
-3.  Make scripts executable:
+4.  Make scripts executable:
     
         chmod +x *.sh
     
-4.  Run the desired script with root privileges, e.g.:
+5.  Run the desired script with root privileges, e.g.:
     
         sudo ./setup-jammy-domains.sh
         sudo ./update-jammy.sh
