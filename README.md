@@ -1,4 +1,3 @@
-  Peanut README body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; max-width: 800px; } h1, h2, h3 { color: #333; } code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; } pre { background: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; } ul { margin: 10px 0; } li { margin-bottom: 5px; } a { color: #0066cc; text-decoration: none; } a:hover { text-decoration: underline; }
 
 Peanut
 ======
