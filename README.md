@@ -4,6 +4,13 @@ Peanut
 
 Peanut is a collection of bash scripts designed to automate the setup, configuration, deployment, maintenance, and cleanup of a LAMP stack (Linux, Apache, MySQL, PHP) on an AWS EC2 instance running Ubuntu 22.04 (Jammy Jellyfish). These scripts streamline the provisioning, deployment, management, and decommissioning of a secure, optimized web hosting environment, including Apache virtual hosts, Adminer for database management, and support for deploying public and private GitHub repositories.
 
+Update
+------
+
+Added an all in one script which takes care of most of the settings needed to set this up as a sinlge script. 
+
+new features as well, for ssl etc.
+
 Features
 --------
 
